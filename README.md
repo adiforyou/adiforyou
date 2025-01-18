@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm  Aditya Singh </h1>
 
 
-<img align="right" alt="Coding" width="400"  src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400"  src="https://avatars.githubusercontent.com/u/118925534?v=4">
 - 🔭 I’m currently working on [Zenaris] (https://zenaris-amber.vercel.app/)
 
 - 📫 How to reach me **jeevan56k@gmail.com**
