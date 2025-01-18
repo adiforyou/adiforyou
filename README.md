@@ -5,7 +5,7 @@
 <img align="right" alt="Coding" width="400"  src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 - 🔭 I’m currently working on [Zenaris] (https://zenaris-amber.vercel.app/)
 
-- 📫 How to reach me **garg10sumit@gmail.com**
+- 📫 How to reach me **jeevan56k@gmail.com**
 
 - 📄 My Resume
 
@@ -14,13 +14,13 @@
 <p align="left">
 
 
-<a href="https://codeforces.com/profile/sumit_garg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/sumit_garg" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/garg10sumit/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/garg10sumit/" height="30" width="40" /></a>
-<a href="https://www.geeksforgeeks.org/user/garg1078ln/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/garg1078ln/" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/sumit-garg---/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sumit-garg---/" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/code._.adi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/code._.adi" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/codeadi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/codeadi/" height="30" width="40" /></a>
+<a href="https://www.geeksforgeeks.org/user/codeadi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/codeadi/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/aditya-singh----/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aditya-singh----/" height="30" width="40" /></a>
 </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SumitGarg11" alt="SumitGarg11" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adiforyou" alt="adiforyou" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
   <a href="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" alt="200" height="200" width="200" /></a>
