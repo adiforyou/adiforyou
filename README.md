@@ -5,9 +5,9 @@
 <img align="right" alt="Coding" width="400"  src="https://avatars.githubusercontent.com/u/118925534?v=4">
 - 🔭 I’m currently working on [Zenaris] (https://zenaris-amber.vercel.app/)
 
-- 📫 How to reach me **jeevan56k@gmail.com**
+- 📫 How to reach me **codeadi100@gmail.com**
 
-- 📄 My Resume
+
 
 <h3 align="left">Connect with me:</h3>
 
