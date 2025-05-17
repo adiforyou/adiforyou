@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **codeadi100@gmail.com**
 
-
+- 📄 My Resume
 
 <h3 align="left">Connect with me:</h3>
 
