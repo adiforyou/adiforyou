@@ -3,7 +3,7 @@
 
 
 <img align="right" alt="Coding" width="400"  src="https://avatars.githubusercontent.com/u/118925534?v=4">
-- 🔭 I’m currently working on [Zenaris] (https://zenaris-amber.vercel.app/)
+- 🔭 I’m currently working on [Onyx] (https://github.com/adiforyou/onyx)
 
 - 📫 How to reach me **codeadi100@gmail.com**
 
